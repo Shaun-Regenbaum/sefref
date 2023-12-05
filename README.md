@@ -1,2 +1,3 @@
 # sefref
 This is a typescript wrapper around Sefaria's API to make it easier and nicer to use Sefaria's data.
+Or rather it will be if I ever get around to it. I think it is a valuable project to work on, but don't have the time right now...
